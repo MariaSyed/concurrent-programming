@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMonitorBlockingQueuesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- After inserting elemenets to capacity, the queue should be full[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- A newly formed queue should be empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The queue should be empty after the sequence of operations[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The queue should contain a value once inserted[0m[0m

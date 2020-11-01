@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/calculator/src/main/scala/Calculator.scala:32:7: method receive has return statement; needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m      return state[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

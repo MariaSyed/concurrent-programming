@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/atomicReference/src/main/scala/SimpleAtomicReference.scala:33:37: value syncronized is not a member of atomicReference.SimpleAtomicReference[V][0m
+[0m[[0m[31merror[0m] [0m[0m  def set(newValue: V): Unit = this.syncronized {[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

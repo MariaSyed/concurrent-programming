@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSemaphoreBlockingQueueTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- A newly formed queue should be empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- After inserting elements to capacity, the queue should be full[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- the queue should be empty after adding and removing two elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The queue should uphold the FIFO rule[0m[0m

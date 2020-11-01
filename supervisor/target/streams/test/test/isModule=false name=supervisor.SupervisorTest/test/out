@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSupervisorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Supervisor should create child of type A named Child[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Supervisor should implement a sane stratagey of resuming for a temporary problem[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Supervisor should implement a sane strategy of restarting for a permanent problem[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Supervisor should terminate itself upon death of a child[0m[0m

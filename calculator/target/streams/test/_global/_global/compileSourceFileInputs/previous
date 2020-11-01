@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.6":{"hashes":[["/Users/mariasyed/Documents/Aalto/Concurrent_Programming/calculator/src/test/scala/TestCalculator.scala","b901eed51ae5c800b92add1bbdedef48704384c2"]],"lastModifiedTimes":[]}}]

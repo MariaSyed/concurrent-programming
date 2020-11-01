@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/spinlock/src/main/scala/Spinlock.scala:31:27: value sleep is not a member of Thread[0m
+[0m[[0m[31merror[0m] [0m[0m            callingThread.sleep(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/spinlock/src/main/scala/Spinlock.scala:39:27: value sleep is not a member of Thread[0m
+[0m[[0m[31merror[0m] [0m[0m            callingThread.sleep(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/roundRobin/src/main/scala/RoundRobin.scala:37:7: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m      msg[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

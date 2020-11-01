@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/atomicInteger/src/main/scala/SimpleAtomicInteger.scala:19:7: overriding method value in class AbstractAtomicInteger of type => Int;[0m
+[0m[[0m[31merror[0m] [0m[0m variable value needs `override' modifier[0m
+[0m[[0m[31merror[0m] [0m[0m  var value = initValue[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

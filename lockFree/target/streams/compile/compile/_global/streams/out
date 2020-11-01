@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/lockFree/src/main/scala/LockFreeStack.scala:48:5: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: E[0m
+[0m[[0m[31merror[0m] [0m[0m    do {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/lockFree/src/main/scala/LockFreeStack.scala:53:3: return outside method definition[0m
+[0m[[0m[31merror[0m] [0m[0m  return oldHead.value[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

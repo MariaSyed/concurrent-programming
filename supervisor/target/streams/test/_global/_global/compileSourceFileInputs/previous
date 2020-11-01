@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.6":{"hashes":[["/Users/mariasyed/Documents/Aalto/Concurrent_Programming/supervisor/src/test/scala/SupervisorTest.scala","c974b3737eb15ea62943de05664316128d8c8f3a"]],"lastModifiedTimes":[]}}]

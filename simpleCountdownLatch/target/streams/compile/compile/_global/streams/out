@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:26:15: not found: type SimpleAtomicInteger[0m
+[0m[[0m[31merror[0m] [0m[0m  count = new SimpleAtomicInteger(initCount)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:29:17: value get is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m   while (count.get() > 0) Thread.currentThread().wait()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:35:9: not found: value flag[0m
+[0m[[0m[31merror[0m] [0m[0m    if (flag.compareAndSet(0, callingThread.getId.toInt) == false) {[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:37:9: not found: value lock[0m
+[0m[[0m[31merror[0m] [0m[0m        lock()[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:40:15: value get is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    if (count.get() > 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:41:13: value set is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m      count.set(count.get() - 1)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mariasyed/Documents/Aalto/Concurrent_Programming/simpleCountdownLatch/src/main/scala/SimpleCountDownLatch.scala:41:23: value get is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m      count.set(count.get() - 1)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

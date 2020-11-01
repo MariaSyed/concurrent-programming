@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestCalculator:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The assign call should return the value given[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Addition should produce the correct value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Multiplication should produce the correct value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Clamp should give the state value between l and u[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should give correct answer if state value is less than l[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should give correct answer if state value is greater than u[0m[0m
